@@ -1,5 +1,15 @@
 body
 h1{
-    background:#22cbf55d 
+    background:#22cbf56b 
 
+}
+h1{
+    text-align: center;
+    text-decoration: red;
+    font-size: 20px;
+}
+p{
+    text-align: center; 
+    text-decoration: royalblue;
+    font-size: 16x;
 }
